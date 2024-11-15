@@ -6,6 +6,7 @@ public class CodeBegun {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello CODEBEGUN");
+		System.out.println("Easy to Learn");
 
 	}
 
